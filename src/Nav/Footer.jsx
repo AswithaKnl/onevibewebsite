@@ -9,7 +9,7 @@ import StripCardIcon from '../assets/stripCard1.png';
 import CryInvestIcon from '../assets/crypinvest1.png';
 import xRemitIcon from '../assets/xRemitPro.png';
 import AdFundIcon from '../assets/AdFund.png';
-import EscrocIcon from '../assets/Escroc.png';
+import EscrocIcon from '../assets/escroc.png';
 import AdcryptoIcon from '../assets/Adcrypto.png';
 import ADoctorIcon from '../assets/ADoctor.png';
 import eSalonIcon from '../assets/eSalon.png';
