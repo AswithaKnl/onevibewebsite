@@ -10,7 +10,7 @@ import RemittanceSolution from "./Solutiondroplist/remittancesolutions";
 import DigitalWallet from "./Solutiondroplist/digitalwallet";
 import PaymentGateway from "./Solutiondroplist/paymentgateway";
 import CurrencyExchange from "./Solutiondroplist/CurrencyExchange";
-import CardIssuing from "./Solutiondroplist/cardissuing";
+import CardIssuing from "./Solutiondroplist/CardIssuing";
 import CrowdFunding from "./Solutiondroplist/crowdfunding";
 import InvestmentManagement from "./Solutiondroplist/InvestmentManagement";
 import Escrow from "./Solutiondroplist/escrow";
