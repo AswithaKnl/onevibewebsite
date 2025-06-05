@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f7f9;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+            color:hsl(120, 100%, 30%); 
+            text-align:center; 
+        }
+
+        span {
+            font-style: italic;
+            color: #007BFF;
+        }
+
+        label {
+            font-weight: bold;
+            margin-right: 10px;
+        }
+
+        input[type="text"],
+        input[list] {
+            padding: 8px;
+            margin-top: 5px;
+            margin-bottom: 20px;
+            width: 200px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        table {
+            width: 50%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #aaa;
+            padding: 10px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #007BFF;
+            color: white;
+        }
+
+        td {
+            background-color: #fff;
+        }
+
+        div {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>Welcome to the Contact Form  
+            <!-- <span><i>Hello</i> this is chinnari!</span> --> </h1> 
+
+        <label for="name">Name:</label>
+        <input list="fruits" id="name" placeholder="Select or type a fruit" />
+        <datalist id="fruits">
+            <option value="Apple"></option>
+            <option value="Banana"></option>
+            <option value="Mango"></option>
+        </datalist>
+
+        <div>
+            <table>
+                <tr>
+                    <th>HEADING</th>
+                    <th>HEADING</th>
+                    <th>HEADING</th>
+                </tr>
+                <tr>
+                    <td>Row 1</td>
+                    <td>Row 1</td>
+                    <td>Row 1</td>
+                </tr>
+                <tr>
+                    <td>Row 2</td>
+                    <td>Row 2</td>
+                </tr>
+                <tr>
+                    <td>Row 3</td>
+                    <td>Row 3</td>
+                </tr>
+                <tr>
+                    <td>Row 4</td>
+                    <td>Row 4</td>
+                </tr>
+            </table>
+        </div>
+        <label for="fruits">Choose a fruit:</label>
+            <select id="fruits" name="fruits">
+            <option value="apple">Apple</option>
+            <option value="banana">Banana</option>
+            <option value="cherry">Cherry</option>
+            </select>
+    </div>
+</body>
+</html>
