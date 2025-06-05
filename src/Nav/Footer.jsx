@@ -4,7 +4,7 @@ import footerBackground from '../assets/footerBg.png';
 import Icon from './icon';
 import SubscribeSection from './SubcribeSection';
 import qrpayIcon from '../assets/qrpay1.png';
-import adChangeIcon from '../assets/adChange.png';
+import adChangeIcon from '../assets/adchange.png';
 import StripCardIcon from '../assets/stripCard1.png';
 import CryInvestIcon from '../assets/crypinvest1.png';
 import xRemitIcon from '../assets/xRemitPro.png';
