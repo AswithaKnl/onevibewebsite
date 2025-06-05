@@ -9,7 +9,7 @@ import MobileBankingSolution from "./Solutiondroplist/mobliebanksolution";
 import RemittanceSolution from "./Solutiondroplist/remittancesolutions";
 import DigitalWallet from "./Solutiondroplist/digitalwallet";
 import PaymentGateway from "./Solutiondroplist/paymentgateway";
-import CurrencyExchange from "./Solutiondroplist/currencyexchange";
+import CurrencyExchange from "./Solutiondroplist/CurrencyExchange";
 import CardIssuing from "./Solutiondroplist/cardissuing";
 import CrowdFunding from "./Solutiondroplist/crowdfunding";
 import InvestmentManagement from "./Solutiondroplist/InvestmentManagement";
