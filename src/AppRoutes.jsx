@@ -11,7 +11,7 @@ import DigitalWallet from "./Solutiondroplist/digitalwallet";
 import PaymentGateway from "./Solutiondroplist/paymentgateway";
 import CurrencyExchange from "./Solutiondroplist/CurrencyExchange";
 import CardIssuing from "./Solutiondroplist/CardIssuing";
-import CrowdFunding from "./Solutiondroplist/crowdfunding";
+import CrowdFunding from "./Solutiondroplist/CrowdFunding";
 import InvestmentManagement from "./Solutiondroplist/InvestmentManagement";
 import Escrow from "./Solutiondroplist/escrow";
 import AIchatbot from "./Solutiondroplist/AIchatbot";
