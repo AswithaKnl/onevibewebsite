@@ -13,7 +13,7 @@ import CurrencyExchange from "./Solutiondroplist/CurrencyExchange";
 import CardIssuing from "./Solutiondroplist/CardIssuing";
 import CrowdFunding from "./Solutiondroplist/CrowdFunding";
 import InvestmentManagement from "./Solutiondroplist/InvestmentManagement";
-import Escrow from "./Solutiondroplist/escrow";
+import Escrow from "./Solutiondroplist/Escrow";
 import AIchatbot from "./Solutiondroplist/AIchatbot";
 import OnlineBooking from "./Solutiondroplist/OnlineBooking";
 import MultiVendor from "./Solutiondroplist/MultiVendor";
