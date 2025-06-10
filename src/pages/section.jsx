@@ -5,7 +5,7 @@ import developed from '../assets/developed.png';
 import happy from '../assets/happy.png';
 import product from '../assets/productw.png'; 
 import rating from '../assets/rating.png';
-import sectionimg from '../assets/sectionimg.webp';
+import sectionimg from '../assets/sectionImg.webp';
 
 const StatisticsSection = () => {
   const stats = [
