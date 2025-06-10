@@ -10,7 +10,7 @@ import CryInvestIcon from '../assets/crypinvest1.png';
 import xRemitIcon from '../assets/xRemitPro.png';
 import AdFundIcon from '../assets/adFund.png';
 import EscrocIcon from '../assets/escroc.png';
-import AdcryptoIcon from '../assets/Adcrypto.png';
+import AdcryptoIcon from '../assets/adCrypto.png';
 import ADoctorIcon from '../assets/ADoctor.png';
 import eSalonIcon from '../assets/eSalon.png';
 import gdpr from '../assets/gdpr.png';
