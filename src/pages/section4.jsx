@@ -1,6 +1,6 @@
 import React from 'react';
-import aboutsection from '../assets/aboutsection.png';
-import aboutsection2 from '../assets/aboutsection2.png';
+import aboutsection from '../assets/aboutSection.png';
+import aboutsection2 from '../assets/aboutSection2.png';
 
 const Section4 = () => {
   return (
